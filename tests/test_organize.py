@@ -3,8 +3,7 @@ import os
 import pathlib
 import tempfile
 
-from core.organizer import organize_files
-
+from date_organizer_util.core.organizer import organize_files
 
 
 def test_organize_files_move():

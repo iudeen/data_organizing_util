@@ -2,7 +2,7 @@ import pathlib
 from datetime import datetime
 import shutil
 import typer
-from core.m_logger import run_log, error_log
+from date_organizer_util.core.m_logger import run_log, error_log
 import json
 
 month_map = {
